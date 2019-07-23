@@ -1,0 +1,8 @@
+name: mesh-extraction-pharamacological-actions
+channels:
+  - conda-forge
+dependencies:
+  - pandas
+  - codecs
+  - glob
+  - lxml
