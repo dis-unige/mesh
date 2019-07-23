@@ -2,14 +2,6 @@
 
 ## Extracting information from MeSH thesaurus
 
-The processus of extracting information frome MeSH follows this simple steps:
-
- 1. Download MeSH thesaurus in XML format from https://www.nlm.nih.gov/mesh/filelist.html
- 1. Extract and anlyze the MeSH XML tree
- 1. Select the informations to extract with the UID (loops and secondary loops)
- 
-## Exemples
-
 ### Pharamacological actions
 
 The idea, proposed by Mrs Kirsten van Gelderen-Ziesemer for the workshop "[Mining PubMed metadata with Pandas and Jupyter Notebooks](https://www.conftool.com/eahil2019/index.php?page=browseSessions&downloads=show&form_session=39&mode=table&presentations=show)", was to obtain all the possible entry terms for one particular pharmacological action without manual copy/paste form the multiple MeSH terms concerned. The solution proposed in this notebook was to execute two separate extractions for each MeSH term: one with the phramacological actions and another with the entry terms. Then we merge the two dataframes and get a table with all the possible entry terms for each pharmacological action. There are 48000 variants in total and for one single term as "antihypertensive agents" ther are 1188 entry terms.
