@@ -1,5 +1,7 @@
 # Notebooks for the anlysis of [NLM Medical Subject Headings MeSH](https://www.nlm.nih.gov/mesh/meshhome.html)
 
+Author: **Pablo Iriarte, University of Geneva - pablo.iriarte@unige.ch**
+
 ## Extracting information from MeSH thesaurus
 
 The processus of extracting information frome MeSH follows this simple steps:

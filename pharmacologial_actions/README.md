@@ -1,5 +1,7 @@
 # Notebooks for the anlysis of [NLM Medical Subject Headings MeSH](https://www.nlm.nih.gov/mesh/meshhome.html)
 
+Author: **Pablo Iriarte, University of Geneva - pablo.iriarte@unige.ch**
+
 ## Extracting information from MeSH thesaurus: Pharamacological actions
 
 The idea, proposed by Mrs Kirsten van Gelderen-Ziesemer for the workshop "[Mining PubMed metadata with Pandas and Jupyter Notebooks](https://www.conftool.com/eahil2019/index.php?page=browseSessions&downloads=show&form_session=39&mode=table&presentations=show)", was to collect all underlying [entry terms (synonyms)](https://www.nlm.nih.gov/mesh/intro_entry.html) for the MeSH terms that are noted for one particular pharmacological action, without manual copy/paste form the multiple MeSH terms concerned. The list of synonyms may be useful in the research work carried out in systematic reviews, in order to include the largest possible number of studies.
