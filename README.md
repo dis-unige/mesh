@@ -18,4 +18,4 @@ The idea, proposed by Mrs Kirsten van Gelderen-Ziesemer for the workshop "[Minin
 
 The solution proposed in this folder was to execute two separate extractions for each MeSH term: one with all the Phramacological Actions and another one with all the Entry Terms for each MeSH term. Then we merge the two dataframes and get a table with all the possible Entry Terms for all the MeSH terms concerned by each Pharmacological Action. There are 4'617 Pharmacological Actions, 234'843 combination of MeSH Term / Entry Term and 48'181 combination of Pharmacological Actions / Entry Term in total. For example, one single Pharmacological Action as "Antihypertensive agents" has 102 MeSH terms and 1'188 Entry Terms for those MeSH terms.
 
- 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dis-unige/mesh/master?filepath=pharmacologial_actions%2F2_mesh_entry_terms_for_a_pharamacological_action.ipynb)
