@@ -1,6 +1,6 @@
 # Notebooks for the anlysis of [NLM Medical Subject Headings MeSH](https://www.nlm.nih.gov/mesh/meshhome.html)
 
-Author: **Pablo Iriarte, University of Geneva - pablo.iriarte@unige.ch**
+Authors: **[Pablo Iriarte](mailto:pablo.iriarte@unige.ch)** & **[Floriane Muller](mailto:floriane.muller@unige.ch)**, [Library of the University of Geneva](https://www.unige.ch/biblio/)
 
 ## Extracting information from MeSH thesaurus
 
